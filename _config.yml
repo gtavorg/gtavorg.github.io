@@ -1,0 +1,8 @@
+title: "Gustavo Rodriguez"
+description: "QA Engineer | Developer Portfolio"
+author: gtavorg
+theme: minima
+
+header_pages:
+  - about.md
+  - projects.md
